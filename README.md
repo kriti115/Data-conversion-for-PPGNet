@@ -6,7 +6,7 @@ The image is a 10000x10000 tif file consisting of multiple roofs in one image.
 
 The order of execution is as follows:
 
-^  -> Run the 'coordinates.py' followed by 'pixel.py' to obtain the original coordinates from GeoJSON file and the converted pixel coordinates respectively. 
+  -> Run the 'coordinates.py' followed by 'pixel.py' to obtain the original coordinates from GeoJSON file and the converted pixel coordinates respectively. 
   
   -> Run 'visualizeLineAndJunctions.py' to visualize the junctions and line segments on the image.
   
