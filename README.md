@@ -18,7 +18,7 @@ The order of execution is as follows:
   
   -> Run 'clipAndSave.py' to clip and save the individual roofs in the designated folder. These images are the second input which is used for training the network.
 
-One image 'kriti.tif' and one GeoJSON file of the digitized shapefile 'Kriti_456_5748.geojson' is also provided for visualization and testing.
+One image 'kriti.tif' can be found in the drive link https://drive.google.com/drive/u/1/folders/1ZTM_Y4iM9nNJLNKkZMlwxgXsoHepS63W and one GeoJSON file of the digitized shapefile 'Kriti_456_5748.geojson' is also provided for visualization and testing.
 
 # Acknowledgement
 
