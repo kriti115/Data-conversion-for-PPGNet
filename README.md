@@ -27,4 +27,5 @@ Gratitude to Mr. Simon Hensel https://github.com/SimonHensel for his invaluable 
 # References
 
 Original Work: https://github.com/svip-lab/PPGNet
+
 Images and .lg objects for training: https://github.com/SimonHensel/Vectorization-Roof-Data-Set
