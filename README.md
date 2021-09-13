@@ -1,4 +1,4 @@
-# Data-conversion-necessary-for-.lg-object-in-PPGNet-and-clipping-of-image
+# Data-conversion-to-a-format-suitable-in-PPGNet-and-clipping-of-image
 
 Conversion of digitized shapefiles into pixel coordinates that are suitable to be used as inputs in the PPGNet linegraph.py submodule for conversion to .lg objects.
 The digitized shapefiles are of roofs which are mostly single standing buildings with simple roof. The shapefile is converted to GeoJSON file in QGIS and this is used in the code. 
