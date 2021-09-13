@@ -22,8 +22,9 @@ One image 'kriti.tif' can be found in the drive link https://drive.google.com/dr
 
 # Acknowledgement
 
-Gratitude to Mr. Simon Hensel for his invaluable guidance and support throughout the project. 
+Gratitude to Mr. Simon Hensel https://github.com/SimonHensel for his invaluable guidance and support throughout the project. 
 
 # References
 
-Original Paper: https://github.com/svip-lab/PPGNet
+Original Work: https://github.com/svip-lab/PPGNet
+Images and .lg objects for training: https://github.com/SimonHensel/Vectorization-Roof-Data-Set
