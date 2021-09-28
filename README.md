@@ -8,9 +8,13 @@ The image used as input is a 10000x10000 tif file consisting of multiple roofs. 
 ![images](/images/Bounding box.PNG)
 
 The output includes:
-1. Pixel coordinates of junctions: ![images](/images/Pixel.PNG)
-2. Pixel coordinates of line segments: ![images](/images/Line segment.PNG)
-3. Clipped images: ![images](/images/Clipped image.jpg) ![images](/images/Clip image.jpg)
+1. Pixel coordinates of junctions: 
+![images](/images/Pixel.PNG)
+3. Pixel coordinates of line segments: 
+![images](/images/Line segment.PNG)
+5. Clipped images: 
+![images](/images/Clipped image.jpg)
+![images](/images/Clip image.jpg)
 
 The visualization of all three output looks as follows:
 
