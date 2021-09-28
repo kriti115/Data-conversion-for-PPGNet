@@ -4,6 +4,8 @@ Conversion of digitized shapefiles into pixel coordinates that are suitable to b
 The digitized shapefiles are of roofs which are mostly single standing buildings with simple roof. The shapefile is converted to GeoJSON file in QGIS and this is used in the code. 
 The image is a 10000x10000 tif file consisting of multiple roofs in one image. 
 
+![images](Pixel.PNG)
+
 The order of execution is as follows:
 
   -> Run the 'coordinates.py' followed by 'pixel.py' to obtain the original coordinates from GeoJSON file and the converted pixel coordinates respectively. 
