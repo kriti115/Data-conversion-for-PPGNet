@@ -4,21 +4,21 @@ Conversion of digitized shapefiles into pixel coordinates that are suitable to b
 The digitized shapefiles are of roofs which are mostly single standing buildings with simple roof. The shapefile is converted to GeoJSON file in QGIS and this is used in the code. 
 
 The image used as input is a 10000x10000 tif file consisting of multiple roofs. The individual roofs are clipped out from it using bounding box. 
-![image](/images/Bounding box.PNG)
+![image](/images/Bounding_box.PNG)
 
 The output includes:
 1. Pixel coordinates of junctions: 
 ![images](/images/Pixel.PNG)
 2. Pixel coordinates of line segments: 
-![image](/images/Line segment.PNG)
+![image](/images/Line_segment.PNG)
 3. Clipped images: 
-![images1](/images/Clipped image.jpg)
-![images2](/images/Clip image.jpg)
+![images1](/images/Clipped_image.jpg)
+![images2](/images/Clip_image.jpg)
 
 The visualization of all three output looks as follows:
 
 ![images3](/images/Final.PNG)
-![images4](/images/Final result.PNG)
+![images4](/images/Final_result.PNG)
 
 The order of execution is as follows:
 
