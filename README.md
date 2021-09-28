@@ -11,15 +11,15 @@ The output includes:
 1. Pixel coordinates of junctions: 
 ![images](/images/Pixel.PNG)
 3. Pixel coordinates of line segments: 
-![images](/images/Line segment.PNG)
+![image](/images/Line segment.PNG)
 5. Clipped images: 
-![images](/images/Clipped image.jpg)
-![images](/images/Clip image.jpg)
+![images1](/images/Clipped image.jpg)
+![images2](/images/Clip image.jpg)
 
 The visualization of all three output looks as follows:
 
-![images](/images/Final.PNG)
-![images](/images/Final result.PNG)
+![images3](/images/Final.PNG)
+![images4](/images/Final result.PNG)
 
 The order of execution is as follows:
 
