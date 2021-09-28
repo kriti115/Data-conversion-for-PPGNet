@@ -2,9 +2,20 @@
 
 Conversion of digitized shapefiles into pixel coordinates that are suitable to be used as inputs in the PPGNet linegraph.py submodule for conversion to .lg objects.
 The digitized shapefiles are of roofs which are mostly single standing buildings with simple roof. The shapefile is converted to GeoJSON file in QGIS and this is used in the code. 
-The image is a 10000x10000 tif file consisting of multiple roofs in one image. 
 
-![images](/images/Pixel.PNG)
+The image used as input is a 10000x10000 tif file consisting of multiple roofs. The individual roofs are clipped out from it using bounding box.
+
+![images](/images/Bounding box.PNG)
+
+The output includes:
+1. Pixel coordinates of junctions: ![images](/images/Pixel.PNG)
+2. Pixel coordinates of line segments: ![images](/images/Line segment.PNG)
+3. Clipped images: ![images](/images/Clipped image.jpg) ![images](/images/Clip image.jpg)
+
+The visualization of all three output looks as follows:
+
+![images](/images/Final.PNG)
+![images](/images/Final result.PNG)
 
 The order of execution is as follows:
 
